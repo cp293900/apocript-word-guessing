@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as s,a as c}from"./index-ChvUeSyc.js";const r={},a={class:"about"};function n(_,e){return t(),s("div",a,e[0]||(e[0]=[c("h1",{style:{color:"blue"}},"Apocript page",-1)]))}const d=o(r,[["render",n]]);export{d as default};
